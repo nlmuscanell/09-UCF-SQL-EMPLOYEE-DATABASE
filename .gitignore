@@ -1,4 +1,4 @@
 gitignore
 
 # PostgresSQL password
-congif.py
+config.py
