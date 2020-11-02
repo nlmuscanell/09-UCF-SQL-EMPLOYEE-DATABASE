@@ -1,0 +1,4 @@
+gitignore
+
+# PostgresSQL password
+congif.py

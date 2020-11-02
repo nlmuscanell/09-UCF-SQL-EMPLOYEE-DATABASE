@@ -1,17 +1,9 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# SQL - Employee Database: A Mystery in Two Parts
 
 
 ## Background
 
-It is a beautiful spring day, and it is two weeks since you have been hired as a new data engineer at Pewlett Hackard. Your first major task is a research project on employees of the corporation from the 1980s and 1990s. All that remain of the database of employees from that period are six CSV files.
+SQL was used to analayze the data for employees of a corporation from the 1980s and 1990s. THe database of employees from that period consists of six CSV files. Both data engineering and analysis were conducted: Tables were designed to hold data in the CSVs, data were imported into a SQL database, and queries were written and performed to answer questions about the data. 
 
-In this assignment, you will design the tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. In other words, you will perform:
-
-1. Data Engineering
-
-3. Data Analysis
-
-Note: You may hear the term "Data Modeling" in place of "Data Engineering," but they are the same terms. Data Engineering is the more modern wording instead of Data Modeling.
-
-## Initial Commit
+In a second part of this project, the SQL database was imported into jupyter notebook so that the data could be further visualized using Pandas. Plots from Pandas suggest that the original date may be fake.
 
